@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on SPA's, Website and Webapps, something with a synthesizer.
 - 📫 How to reach me sean@mood-ui.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love raspberry pi computers. I just set up a web server with LAMP and wordpress on the Pi Zero 2 W, I also have a Pi 400 that I run Bookworm on and another flash microSD with Kali Linux and have done some youtube tutorials on 4-way-handshake gathering with DeAuth attack using Nmap, and Airmon/Aircrack I'm a musician and looking to gain experience in the web dev field as I continue to progress my education regardless because of my love for technology. 
-
+- ⚡ Fun fact: I love raspberry pi computers. I just set up a web server/file share with LAMP and wordpress on the Pi Zero 2 W.
 <!---
 xXRasp-scallionXx/xXRasp-scallionXx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
