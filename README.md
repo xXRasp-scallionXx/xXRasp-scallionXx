@@ -5,6 +5,7 @@
 - 📫 How to reach me sean@mood-ui.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love raspberry pi computers. I just set up a web server/file share with LAMP and wordpress on the Pi Zero 2 W.
+- I wrote a blog about it on the site I published to help you do it too! 
 <!---
 xXRasp-scallionXx/xXRasp-scallionXx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
